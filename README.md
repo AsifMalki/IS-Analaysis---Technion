@@ -21,3 +21,15 @@ Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Po
 "Atara DLL.dox" - Data Definition Language Commands for Creating the tables of an the constraints of the DB if you preffer not to use the Bak File.
 
 "AtaraLeYoshna System - Specification document.pdf" - Full Specification document for AtaraLeYoshna System.
+
+"WebApplication5.sln" - the MVS Solution file. 
+ 
+ The other files are files that are related to the MVS Solution and they are required for the Solution to work properly.
+ 
+ # How to Run
+ 
+ 1)Create the SQL Database Using AtaraLeyoshna2.bak file in SQL Server (recommended ) or run the code from the DDL into new SQL query.
+ 
+ 2)Download WebApplication5.sln and the related files and put them in the same folder, then open WebApplication5.sln.
+ 
+ 3)Double click on WebForm2.aspx in the Solution Explorer the press Execute, Enjoy : ) 
