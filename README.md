@@ -18,7 +18,7 @@ Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Po
 
 "AtaraLeyoshna2.bak" - Backup file from the SQL server with all the Procedures and the quarries as shown in the video. 
 
-"Atara DLL.dox" - Data Definition Language Commands for Creating the tables of an the constraints of the DB if you preffer not to use the Bak File.
+"Atara DLL.dox" - Data Definition Language Commands for Creating the tables and the constraints of the DB if you preffer not to use the bak File.
 
 "AtaraLeYoshna System - Specification document.pdf" - Full Specification document for AtaraLeYoshna System.
 
