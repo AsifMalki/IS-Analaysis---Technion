@@ -1,11 +1,11 @@
 # IS-Analaysis---Technion
 Information Systems Analysis Course Final project.
 
-# Task RQ:
+# Task requirements:
 Initiate, build and characterize a Information System according to requirements (Business and Technological) and metrics (Quantitative, Qualitative) together with a feasibility study (Costs, ROI, Technical) and Run Tests Using Practitest.
 Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Power BI for BI.
 
-# Req for Running this Project properly:
+# Requirements for Running this Project properly:
 1)Microsoft Visual Studio 2019 Installed.
 2)Microsoft SQL Server + Managmant Studio Installed.
 4)Power BI Installed with Registered account.
