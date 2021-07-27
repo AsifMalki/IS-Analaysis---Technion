@@ -20,4 +20,4 @@ Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Po
 
 "Atara DLL.dox" - Data Definition Language Commands for Creating the tables of an the constraints of the DB if you preffer not to use the Bak File.
 
-"AtaraLeYoshna System - Specification document.pdf" - FUll Specification document for AtaraLeYoshna System.
+"AtaraLeYoshna System - Specification document.pdf" - Full Specification document for AtaraLeYoshna System.
