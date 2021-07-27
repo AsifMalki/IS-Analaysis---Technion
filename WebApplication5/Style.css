@@ -1,0 +1,191 @@
+﻿
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url('IMG/LOGO.png') no-repeat no-repeat top top top fixed;
+    color: cornflowerblue;
+    height: 100vh;
+    line-height: 100%;
+    overflow: hidden;
+    direction: rtl;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+   
+    overflow-y: scroll;
+    
+}
+
+.lead {
+    font-size: 12pt;
+    font-family : Chiller;
+    text-align: right;
+    direction: rtl;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background: cornflowerblue;
+  
+}
+
+    .navbar ul {
+        display: flex;
+        list-style: none;
+        width: 100%;
+        justify-content: center;
+
+    }
+
+        .navbar ul li {
+            margin: 0 1rem;
+            padding: 1rem;
+        }
+
+            .navbar ul li a {
+                text-decoration: none;
+                text-transform: uppercase;
+                color: #ffffff;
+            }
+
+                .navbar ul li a:hover {
+                    color: #ffffff;
+                }
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+    /* Scroll Snap */
+/*    scroll-snap-align: center;*/
+}
+
+section h1 {
+    font-size: 4rem;
+    direction: rtl;
+}
+
+    
+/* Section Images */
+section#home {
+   
+    background: url('IMG/LOGO.png') no-repeat center center;
+}
+
+section#about {
+    background: url('IMG/מסמך ייזום עטרה ליושנה (7).png') no-repeat center center ;
+    
+}
+
+section#service {
+    background: url('IMG/לוגו.jpg') no-repeat center center;
+}
+
+section#contact {
+    background: url('IMG/לוגו.jpg') no-repeat center center;
+    
+}
+
+form .user-details .input-box {
+    margin-bottom: 15px;
+    width: 100%;
+}
+form input[type="radio"] {
+    display: none;
+}
+
+form .button {
+    height: 45px;
+    margin: 35px 0
+}
+
+    form .button input {
+        height: 100%;
+        width: 100%;
+        border-radius: 5px;
+        border: none;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        direction: rtl;
+    }
+form .input-box span.details {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.content form .user-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+}
+
+form .user-details .input-box {
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+    direction: rtl;
+}
+
+form .input-box span.details {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+    direction: rtl;
+}
+
+.user-details .input-box input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+    direction: rtl;
+}
+
+    .user-details .input-box input:focus,
+    .user-details .input-box input:valid {
+        border-color: #9b59b6;
+    }
+
+form .gender-details .gender-title {
+    font-size: 20px;
+    font-weight: 500;
+    direction: rtl;
+}
+
+form .category {
+    display: flex;
+    width: 80%;
+    margin: 14px 0;
+    justify-content: space-between;
+}
+button {
+    margin: auto;
+    display: block;
+}
