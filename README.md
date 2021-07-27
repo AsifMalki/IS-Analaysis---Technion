@@ -6,8 +6,11 @@ Initiate, build and characterize a Information System according to requirements 
 Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Power BI for BI.
 
 # Requirements for Running this Project properly:
+
 1)Microsoft Visual Studio 2019 Installed.
+
 2)Microsoft SQL Server + Managmant Studio Installed.
+
 4)Power BI Installed with Registered account.
 
 # Files Description:
