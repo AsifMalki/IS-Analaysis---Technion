@@ -28,7 +28,7 @@ Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Po
  
  # How to Run
  
- 1)Create the SQL Database Using AtaraLeyoshna2.bak file in SQL Server (recommended ) or run the code from the DDL into new SQL query.
+ 1)Create the SQL Database Using AtaraLeyoshna2.bak file in SQL Server (recommended) or run the code from the DDL into new SQL query.
  
  2)Download WebApplication5.sln and the related files and put them in the same folder, then open WebApplication5.sln.
  
