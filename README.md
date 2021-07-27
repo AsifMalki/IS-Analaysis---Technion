@@ -32,4 +32,6 @@ Using a 3 layers model: SQL Server for DB, C# for Logic, Aspx for interface & Po
  
  2)Download "WebApplication5.sln" and the related files and put them in the same folder, then open "WebApplication5.sln".
  
- 3)Double click on "WebForm2.aspx" in the Solution Explorer then press "Execute", Enjoy : ) 
+ 3)Double click on "WebForm2.aspx" in the Solution Explorer then press "Execute".
+ 
+ Enjoy : ) 
