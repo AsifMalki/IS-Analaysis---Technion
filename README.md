@@ -1,4 +1,4 @@
-# IS-Analaysis---Technion
+# IS-Analaysis-Technion
 Information Systems Analysis Course Final project.
 
 # Task requirements:
